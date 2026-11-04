@@ -59,7 +59,7 @@ After publishing an official PasteFerry release:
 ```sh
 brew style Casks/pasteferry.rb
 brew audit --cask --online baiyuze/tap/pasteferry
-brew livecheck --cask --greedy baiyuze/tap/pasteferry
+brew livecheck --cask baiyuze/tap/pasteferry
 ```
 
 The cask uses existing PasteFerry release assets. App signing and release
