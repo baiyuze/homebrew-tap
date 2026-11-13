@@ -1,6 +1,6 @@
 cask "pasteferry" do
-  version "2.11.2"
-  sha256 "d9b2485d2a016e0a4a6b310bf1ba07aeca1f4b19c6b1c1d4be837aebeee047be"
+  version "2.12.0"
+  sha256 "a85ee69790323cad89f31b53f6d5b700bbbe1136e945aa8f1091a7d261caaada"
 
   url "https://github.com/baiyuze/pasteferry/releases/download/v#{version}/PasteFerry.dmg"
   name "PasteFerry"
